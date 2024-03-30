@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NistBuses/static/css/main.5f7c29b1.css",
+    "main.js": "/NistBuses/static/js/main.7914cd31.js",
+    "static/js/453.4b37c39e.chunk.js": "/NistBuses/static/js/453.4b37c39e.chunk.js",
+    "static/media/school-bus (1).png": "/NistBuses/static/media/school-bus (1).6580a3d4eab0ad4531e7.png",
+    "static/media/menu-bar.png": "/NistBuses/static/media/menu-bar.f9dda2c356d3595121fa.png",
+    "index.html": "/NistBuses/index.html",
+    "main.5f7c29b1.css.map": "/NistBuses/static/css/main.5f7c29b1.css.map",
+    "main.7914cd31.js.map": "/NistBuses/static/js/main.7914cd31.js.map",
+    "453.4b37c39e.chunk.js.map": "/NistBuses/static/js/453.4b37c39e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f7c29b1.css",
+    "static/js/main.7914cd31.js"
+  ]
+}
