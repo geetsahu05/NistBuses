@@ -11,11 +11,11 @@ const Card = (props) => {
             <div className="flex mb-1">
 
                 <img className = "h-20 self-center" src = {Logo2}/>
-                <h1 className="self-center pl-4">Bus No. {props.BusNumber}</h1>
+                <h1 className="self-center pl-4">Bus no. {props.BusNumber}</h1>
 
             </div>
 
-            <pre className="text-pretty mt-4">{props.Location}</pre>
+            <pre className="text-wrap mt-4">{props.Location}</pre>
             
         </div>
 
